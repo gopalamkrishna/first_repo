@@ -3,4 +3,8 @@ first change
 second change
 
 
+
 Conflict change 2
+
+Coflict change 1
+
